@@ -1,0 +1,53 @@
+Bone	Oxygen isotopic composition					
+Rib 16	11.10
+Rib 16	11.22
+Rib 16	11.29
+Rib 16	11.49		
+Gastralia	11.32
+Gastralia	11.40
+Gastralia	11.71			
+Gastralia	11.60
+Gastralia	11.78
+Gastralia	12.05			
+Dorsal vertebra	10.61
+Dorsal vertebra	10.88
+Dorsal vertebra	11.12
+Dorsal vertebra	11.24
+Dorsal vertebra	11.43	
+Dorsal vertebra	10.92
+Dorsal vertebra	11.20
+Dorsal vertebra	11.30
+Dorsal vertebra	11.62
+Dorsal vertebra	11.70	
+Femur	11.70
+Femur	11.79
+Femur	11.91
+Femur	12.15		
+Tibia	11.33
+Tibia	11.41
+Tibia	11.62
+Tibia	12.15
+Tibia	12.30	
+Metatarsal	11.32
+Metatarsal	11.65
+Metatarsal	11.96
+Metatarsal	12.15		
+Phalange	11.54
+Phalange	11.89
+Phalange	12.04			
+Proximal caudal	10.93
+Proximal caudal	11.01
+Proximal caudal	11.08
+Proximal caudal	11.12
+Proximal caudal	11.28
+Proximal caudal	11.37
+Mid-caudal	11.35
+Mid-caudal	11.43
+Mid-caudal	11.50
+Mid-caudal	11.57
+Mid-caudal	11.92	
+Distal caudal	11.95
+Distal caudal	12.01
+Distal caudal	12.25
+Distal caudal	12.30
+Distal caudal	12.39	

@@ -1,0 +1,4 @@
+Experiment No.	Flow rate	R_nit 
+CRslow	0.023	1.8e-8
+CRmid	0.044	1.9e-8
+CRfast	0.070	2.0e-8

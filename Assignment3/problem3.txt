@@ -1,0 +1,13 @@
+Pregnant nonvegetarians	Pregnant vegetarians	Nonpregnant vegetarians
+185	171	210
+189	174	139
+187	202	172
+181	171	198
+150	207	177
+176	125	
+189	
+179	
+163	
+174	
+184	
+186
