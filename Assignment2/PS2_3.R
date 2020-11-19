@@ -16,3 +16,4 @@ select(Pre_Data, DATE, DlySum, DlySumQF) %>%
             Annual_min=min(DlySum),Annual_max=max(DlySum),
             Annual_se=sd(DlySum)/sqrt(n()))
 
+# good work
