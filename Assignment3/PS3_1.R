@@ -9,3 +9,6 @@ plot(Unseeded_Data~day)
 plot(Seeded_Data~day)
 #1.2
 t.test(Unseeded_Data, Seeded_Data)
+# MingYANG noticed:
+# explain it with p-value in report
+# the end
