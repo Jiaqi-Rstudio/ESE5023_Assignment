@@ -44,3 +44,5 @@ new_Data %>%
 anova_one_way1 <- aov(Oxygen.isotopic.composition ~ Bone, data = new_Data)
 summary(anova_one_way1)
 TukeyHSD(anova_one_way1)
+
+# good work
