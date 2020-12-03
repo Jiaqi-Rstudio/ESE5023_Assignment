@@ -7,3 +7,7 @@ hist(PVgroup)
 hist(PNVgroup)
 boxplot(cbind(PVgroup, PNVgroup))
 t.test(PVgroup, PNVgroup)
+# MingYANG noticed:
+# explain it with P-value
+# these two data seem to be similar
+# the end

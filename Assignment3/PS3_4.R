@@ -12,3 +12,4 @@ plot(Temperature..degrees.C. ~ Elevation..km., data=temp_Data1,
 fit <- lm(Temperature..degrees.C. ~ Elevation..km., data=temp_Data1)
 summary(fit)
 abline(fit, lwd = 5, col = "red")
+# good work

@@ -24,3 +24,5 @@ plot(R_nit~Flow.rate, data = vEX_Data,
      cex = 2,
      col = "navy")
 abline(fit, lwd = 5, col = "red")
+
+# good work

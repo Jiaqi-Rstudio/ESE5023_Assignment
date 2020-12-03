@@ -22,3 +22,7 @@ mean(cpus_test$perf)
 # Relative mean bias
 (mean(perf_predict) - mean(cpus_test$perf))/
   mean(cpus_test$perf)*100
+
+# same code with others
+# mean((perf_predict) - cpus_test$perf) should be more appropriate for this problem
+# the end
