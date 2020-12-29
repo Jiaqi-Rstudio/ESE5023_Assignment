@@ -117,7 +117,7 @@ exp(forecast_10days$upper[day_forward,1])
 
 
 
-#�����̽���һ�£������Ƿ���Ҫ����ǰ������ԭ���Ҷ����˽�������Ǹо������𲻴��ǲ���Ҫ���𣿣�
+#青助教解释一下，数据是否需要进行前处理的原因，我都做了结果，但是感觉结果差别不大，是不需要做吗？？
 model1 <- auto.arima(TEMP_mean)
 model1
 
@@ -143,3 +143,4 @@ forecast_10days$mean[day_forward]
 forecast_10days$lower[day_forward,1]
 forecast_10days$upper[day_forward,1]
 
+# good work
